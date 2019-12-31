@@ -1,0 +1,1000 @@
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 1603
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 913
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 842
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 845
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 833
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 823
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 851
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 828
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 827
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 836
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 851
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 834
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 828
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 840
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 834
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 846
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 834
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 833
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 828
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 836
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 839
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 829
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 836
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 829
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 823
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 820
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 830
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 826
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 822
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 828
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 825
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 843
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 828
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 825
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 829
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 822
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 829
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 837
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 827
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 834
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 823
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 845
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 830
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 822
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 829
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 826
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 823
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 831
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 835
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 832
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 824
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 836
+DbHits: 4560599
+Rows: 1
+COUNT(p)
+1
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 825
+DbHits: 4560599
+Rows: 1

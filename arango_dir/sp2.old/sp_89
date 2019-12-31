@@ -1,0 +1,35 @@
+Query String (70 chars, cacheable: false):
+ FOR v IN any SHORTEST_PATH "user/31" TO "user/4" graph "wiki" RETURN v
+
+Execution plan:
+ Id   NodeType           Calls   Items   Runtime [s]   Comment
+  1   SingletonNode          1       1       0.00000   * ROOT
+  2   ShortestPathNode       1       3       0.00017     - FOR v  /* vertex */ IN ANY SHORTEST_PATH 'user/31' /* startnode */ TO 'user/4' /* targetnode */ GRAPH 'wiki'
+  3   ReturnNode             1       3       0.00000     - RETURN v
+
+Indexes used:
+ none
+
+Shortest paths on graphs:
+ Id   Vertex collections   Edge collections
+  2   user                 talk               
+
+Optimization rules applied:
+ none
+
+Query Statistics:
+ Writes Exec   Writes Ign   Scan Full   Scan Index   Filtered   Exec Time [s]
+           0            0           0            0          0         0.00051
+
+Query Profile:
+ Query Stage           Duration [s]
+ initializing               0.00000
+ parsing                    0.00014
+ optimizing ast             0.00000
+ loading collections        0.00001
+ instantiating plan         0.00002
+ optimizing plan            0.00007
+ executing                  0.00019
+ finalizing                 0.00006
+
+

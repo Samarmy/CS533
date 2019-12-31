@@ -1,0 +1,10 @@
+AVG(n.AGE)
+17.065383060563736
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 1428
+DbHits: 3265607
+Rows: 1

@@ -1,0 +1,10 @@
+SUM(n.len)
+71
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 543
+DbHits: 2280299
+Rows: 1

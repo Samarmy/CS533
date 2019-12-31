@@ -1,0 +1,10 @@
+MAX(n.len)
+15
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 485
+DbHits: 2280299
+Rows: 1

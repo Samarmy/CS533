@@ -1,0 +1,10 @@
+MAX(n.AGE)
+112
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 1373
+DbHits: 3265607
+Rows: 1

@@ -1,0 +1,8 @@
+grep -A 1 'Exec Time' count_* >> count2_times 
+awk 'NR%3==2' count2_times > count2_times2
+awk 'NF>1{print $NF}' count2_times2 > count2_times
+
+grep "Time" count* >> count2_times
+sed 's/.*Time: //' count2_times > count2_times2 
+mv count2_times2 count2_times
+

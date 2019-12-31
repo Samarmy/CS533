@@ -1,0 +1,40 @@
+Query String (115 chars, cacheable: false):
+ for u in user for v in 1..1 ANY u talk OPTIONS {bfs: true} COLLECT aggregate neighbors = count(v) 
+ return neighbors 
+
+Execution plan:
+ Id   NodeType                  Calls      Items   Runtime [s]   Comment
+  1   SingletonNode                 1          1       0.00000   * ROOT
+  2   EnumerateCollectionNode    1141    1140149       0.21721     - FOR u IN user   /* full collection scan */
+  3   TraversalNode             15667   15666280     137.88536       - FOR v  /* vertex */ IN 1..1  /* min..maxPathDepth */ ANY u /* startnode */  talk
+  4   CollectNode                   1          1       1.32430         - COLLECT AGGREGATE neighbors = LENGTH(v)   /* sorted */
+  5   ReturnNode                    1          1       0.00000         - RETURN neighbors
+
+Indexes used:
+ By   Name   Type   Collection   Unique   Sparse   Selectivity   Fields        Ranges
+  3   edge   edge   talk         false    false        44.10 %   [ `_to` ]     base INBOUND
+  3   edge   edge   talk         false    false         8.44 %   [ `_from` ]   base OUTBOUND
+
+Traversals on graphs:
+ Id  Depth  Vertex collections  Edge collections  Options                                             Filter / Prune Conditions
+ 3   1..1                       talk              bfs: true, uniqueVertices: none, uniqueEdges: path                           
+
+Optimization rules applied:
+ none
+
+Query Statistics:
+ Writes Exec   Writes Ign   Scan Full   Scan Index   Filtered   Exec Time [s]
+           0            0     1140149     15666280          0       139.42741
+
+Query Profile:
+ Query Stage           Duration [s]
+ initializing               0.00001
+ parsing                    0.00006
+ optimizing ast             0.00000
+ loading collections        0.00001
+ instantiating plan         0.00004
+ optimizing plan            0.00018
+ executing                139.42690
+ finalizing                 0.00019
+
+

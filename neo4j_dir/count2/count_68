@@ -1,0 +1,10 @@
+COUNT(n.AGE)
+1632640
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 1347
+DbHits: 3265607
+Rows: 1

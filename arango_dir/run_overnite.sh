@@ -1,0 +1,15 @@
+#!/bin/sh
+run_sum.sh
+run_sum2.sh
+run_avg.sh
+run_avg2.sh
+run_count.sh
+run_count2.sh
+run_max.sh
+run_max2.sh
+run_min.sh
+run.min2.sh
+run_sp.sh
+run_sp2.sh
+run_kneighbors.sh
+run_kneighbors2.sh

@@ -1,0 +1,34 @@
+Query String (78 chars, cacheable: false):
+ FOR p IN profile     COLLECT AGGREGATE         max = MAX(p.AGE)     RETURN max
+
+Execution plan:
+ Id   NodeType                  Calls     Items   Runtime [s]   Comment
+  1   SingletonNode                 1         1       0.00000   * ROOT
+  2   EnumerateCollectionNode    1633   1632803       1.18322     - FOR p IN profile   /* full collection scan, projections: `AGE` */
+  3   CalculationNode            1633   1632803       0.19326       - LET #2 = p.`AGE`   /* attribute expression */   /* collections used: p : profile */
+  4   CollectNode                   1         1       0.05484       - COLLECT AGGREGATE max = MAX(#2)   /* sorted */
+  5   ReturnNode                    1         1       0.00000       - RETURN max
+
+Indexes used:
+ none
+
+Optimization rules applied:
+ Id   RuleName
+  1   reduce-extraction-to-projection
+
+Query Statistics:
+ Writes Exec   Writes Ign   Scan Full   Scan Index   Filtered   Exec Time [s]
+           0            0     1632803            0          0         1.43167
+
+Query Profile:
+ Query Stage           Duration [s]
+ initializing               0.00000
+ parsing                    0.00006
+ optimizing ast             0.00000
+ loading collections        0.00001
+ instantiating plan         0.00002
+ optimizing plan            0.00015
+ executing                  1.43135
+ finalizing                 0.00008
+
+

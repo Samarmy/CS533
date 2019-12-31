@@ -1,0 +1,10 @@
+AVG(n.len)
+7.1000000000000005
+Plan: "PROFILE"
+Statement: "READ_ONLY"
+Version: "CYPHER 3.5"
+Planner: "COST"
+Runtime: "INTERPRETED"
+Time: 542
+DbHits: 2280299
+Rows: 1

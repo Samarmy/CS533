@@ -1,0 +1,34 @@
+Query String (75 chars, cacheable: false):
+ FOR p IN user     COLLECT AGGREGATE         min = MIN(p.len)     RETURN min
+
+Execution plan:
+ Id   NodeType                  Calls     Items   Runtime [s]   Comment
+  1   SingletonNode                 1         1       0.00000   * ROOT
+  2   EnumerateCollectionNode    1141   1140149       0.33811     - FOR p IN user   /* full collection scan, projections: `len` */
+  3   CalculationNode            1141   1140149       0.06492       - LET #2 = p.`len`   /* attribute expression */   /* collections used: p : user */
+  4   CollectNode                   1         1       0.04285       - COLLECT AGGREGATE min = MIN(#2)   /* sorted */
+  5   ReturnNode                    1         1       0.00000       - RETURN min
+
+Indexes used:
+ none
+
+Optimization rules applied:
+ Id   RuleName
+  1   reduce-extraction-to-projection
+
+Query Statistics:
+ Writes Exec   Writes Ign   Scan Full   Scan Index   Filtered   Exec Time [s]
+           0            0     1140149            0          0         0.44617
+
+Query Profile:
+ Query Stage           Duration [s]
+ initializing               0.00000
+ parsing                    0.00004
+ optimizing ast             0.00000
+ loading collections        0.00001
+ instantiating plan         0.00002
+ optimizing plan            0.00011
+ executing                  0.44591
+ finalizing                 0.00007
+
+

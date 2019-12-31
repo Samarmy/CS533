@@ -1,0 +1,1 @@
+PROFILE MATCH (u1:user{user_id:"31"}), (u2:user{user_id:"4"}) CALL algo.shortestPath.stream(u1, u2, "cost") YIELD cost RETURN cost;
